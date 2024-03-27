@@ -1,2 +1,2 @@
-# kittykat
-A linux terminal tool that gives you a cat when you need it.
+## kittykat
+An open-source Linux terminal tool that prints a cat to the screen!
