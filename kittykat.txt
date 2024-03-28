@@ -1,0 +1,8 @@
+# basic kittykat config (to be added onto)
+
+# decides wether to use lolcat or not
+# 0 = no, 1 = yes
+# default is 1
+colorful-kittykat=1
+
+# there will be more here as the program is added onto.
